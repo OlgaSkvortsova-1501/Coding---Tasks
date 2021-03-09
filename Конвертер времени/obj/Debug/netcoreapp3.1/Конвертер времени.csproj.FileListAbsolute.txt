@@ -1,0 +1,13 @@
+C:\Users\Лёля\source\repos\Конвертер времени\obj\Debug\netcoreapp3.1\Конвертер времени.csprojAssemblyReference.cache
+C:\Users\Лёля\source\repos\Конвертер времени\obj\Debug\netcoreapp3.1\Конвертер времени.AssemblyInfoInputs.cache
+C:\Users\Лёля\source\repos\Конвертер времени\obj\Debug\netcoreapp3.1\Конвертер времени.AssemblyInfo.cs
+C:\Users\Лёля\source\repos\Конвертер времени\obj\Debug\netcoreapp3.1\Конвертер времени.csproj.CoreCompileInputs.cache
+C:\Users\Лёля\source\repos\Конвертер времени\bin\Debug\netcoreapp3.1\Конвертер времени.exe
+C:\Users\Лёля\source\repos\Конвертер времени\bin\Debug\netcoreapp3.1\Конвертер времени.deps.json
+C:\Users\Лёля\source\repos\Конвертер времени\bin\Debug\netcoreapp3.1\Конвертер времени.runtimeconfig.json
+C:\Users\Лёля\source\repos\Конвертер времени\bin\Debug\netcoreapp3.1\Конвертер времени.runtimeconfig.dev.json
+C:\Users\Лёля\source\repos\Конвертер времени\bin\Debug\netcoreapp3.1\Конвертер времени.dll
+C:\Users\Лёля\source\repos\Конвертер времени\bin\Debug\netcoreapp3.1\Конвертер времени.pdb
+C:\Users\Лёля\source\repos\Конвертер времени\obj\Debug\netcoreapp3.1\Конвертер времени.dll
+C:\Users\Лёля\source\repos\Конвертер времени\obj\Debug\netcoreapp3.1\Конвертер времени.pdb
+C:\Users\Лёля\source\repos\Конвертер времени\obj\Debug\netcoreapp3.1\Конвертер времени.genruntimeconfig.cache

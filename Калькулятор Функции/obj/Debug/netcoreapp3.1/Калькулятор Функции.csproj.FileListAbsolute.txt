@@ -1,0 +1,13 @@
+C:\Users\Лёля\source\repos\Калькулятор Функции\obj\Debug\netcoreapp3.1\Калькулятор Функции.csprojAssemblyReference.cache
+C:\Users\Лёля\source\repos\Калькулятор Функции\obj\Debug\netcoreapp3.1\Калькулятор Функции.AssemblyInfoInputs.cache
+C:\Users\Лёля\source\repos\Калькулятор Функции\obj\Debug\netcoreapp3.1\Калькулятор Функции.AssemblyInfo.cs
+C:\Users\Лёля\source\repos\Калькулятор Функции\obj\Debug\netcoreapp3.1\Калькулятор Функции.csproj.CoreCompileInputs.cache
+C:\Users\Лёля\source\repos\Калькулятор Функции\bin\Debug\netcoreapp3.1\Калькулятор Функции.exe
+C:\Users\Лёля\source\repos\Калькулятор Функции\bin\Debug\netcoreapp3.1\Калькулятор Функции.deps.json
+C:\Users\Лёля\source\repos\Калькулятор Функции\bin\Debug\netcoreapp3.1\Калькулятор Функции.runtimeconfig.json
+C:\Users\Лёля\source\repos\Калькулятор Функции\bin\Debug\netcoreapp3.1\Калькулятор Функции.runtimeconfig.dev.json
+C:\Users\Лёля\source\repos\Калькулятор Функции\bin\Debug\netcoreapp3.1\Калькулятор Функции.dll
+C:\Users\Лёля\source\repos\Калькулятор Функции\bin\Debug\netcoreapp3.1\Калькулятор Функции.pdb
+C:\Users\Лёля\source\repos\Калькулятор Функции\obj\Debug\netcoreapp3.1\Калькулятор Функции.dll
+C:\Users\Лёля\source\repos\Калькулятор Функции\obj\Debug\netcoreapp3.1\Калькулятор Функции.pdb
+C:\Users\Лёля\source\repos\Калькулятор Функции\obj\Debug\netcoreapp3.1\Калькулятор Функции.genruntimeconfig.cache
