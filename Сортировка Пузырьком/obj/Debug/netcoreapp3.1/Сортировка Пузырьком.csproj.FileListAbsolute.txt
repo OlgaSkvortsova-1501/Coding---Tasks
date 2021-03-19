@@ -1,0 +1,26 @@
+C:\Users\Лёля\source\repos\Сортировка Пузырьком\bin\Debug\netcoreapp3.1\Сортировка Пузырьком.exe
+C:\Users\Лёля\source\repos\Сортировка Пузырьком\bin\Debug\netcoreapp3.1\Сортировка Пузырьком.deps.json
+C:\Users\Лёля\source\repos\Сортировка Пузырьком\bin\Debug\netcoreapp3.1\Сортировка Пузырьком.runtimeconfig.json
+C:\Users\Лёля\source\repos\Сортировка Пузырьком\bin\Debug\netcoreapp3.1\Сортировка Пузырьком.runtimeconfig.dev.json
+C:\Users\Лёля\source\repos\Сортировка Пузырьком\bin\Debug\netcoreapp3.1\Сортировка Пузырьком.dll
+C:\Users\Лёля\source\repos\Сортировка Пузырьком\bin\Debug\netcoreapp3.1\Сортировка Пузырьком.pdb
+C:\Users\Лёля\source\repos\Сортировка Пузырьком\obj\Debug\netcoreapp3.1\Сортировка Пузырьком.csprojAssemblyReference.cache
+C:\Users\Лёля\source\repos\Сортировка Пузырьком\obj\Debug\netcoreapp3.1\Сортировка Пузырьком.AssemblyInfoInputs.cache
+C:\Users\Лёля\source\repos\Сортировка Пузырьком\obj\Debug\netcoreapp3.1\Сортировка Пузырьком.AssemblyInfo.cs
+C:\Users\Лёля\source\repos\Сортировка Пузырьком\obj\Debug\netcoreapp3.1\Сортировка Пузырьком.csproj.CoreCompileInputs.cache
+C:\Users\Лёля\source\repos\Сортировка Пузырьком\obj\Debug\netcoreapp3.1\Сортировка Пузырьком.dll
+C:\Users\Лёля\source\repos\Сортировка Пузырьком\obj\Debug\netcoreapp3.1\Сортировка Пузырьком.pdb
+C:\Users\Лёля\source\repos\Сортировка Пузырьком\obj\Debug\netcoreapp3.1\Сортировка Пузырьком.genruntimeconfig.cache
+C:\Users\Лёля\source\repos\Coding - Tasks\Сортировка Пузырьком\bin\Debug\netcoreapp3.1\Сортировка Пузырьком.exe
+C:\Users\Лёля\source\repos\Coding - Tasks\Сортировка Пузырьком\bin\Debug\netcoreapp3.1\Сортировка Пузырьком.deps.json
+C:\Users\Лёля\source\repos\Coding - Tasks\Сортировка Пузырьком\bin\Debug\netcoreapp3.1\Сортировка Пузырьком.runtimeconfig.json
+C:\Users\Лёля\source\repos\Coding - Tasks\Сортировка Пузырьком\bin\Debug\netcoreapp3.1\Сортировка Пузырьком.runtimeconfig.dev.json
+C:\Users\Лёля\source\repos\Coding - Tasks\Сортировка Пузырьком\bin\Debug\netcoreapp3.1\Сортировка Пузырьком.dll
+C:\Users\Лёля\source\repos\Coding - Tasks\Сортировка Пузырьком\bin\Debug\netcoreapp3.1\Сортировка Пузырьком.pdb
+C:\Users\Лёля\source\repos\Coding - Tasks\Сортировка Пузырьком\obj\Debug\netcoreapp3.1\Сортировка Пузырьком.csprojAssemblyReference.cache
+C:\Users\Лёля\source\repos\Coding - Tasks\Сортировка Пузырьком\obj\Debug\netcoreapp3.1\Сортировка Пузырьком.AssemblyInfoInputs.cache
+C:\Users\Лёля\source\repos\Coding - Tasks\Сортировка Пузырьком\obj\Debug\netcoreapp3.1\Сортировка Пузырьком.AssemblyInfo.cs
+C:\Users\Лёля\source\repos\Coding - Tasks\Сортировка Пузырьком\obj\Debug\netcoreapp3.1\Сортировка Пузырьком.csproj.CoreCompileInputs.cache
+C:\Users\Лёля\source\repos\Coding - Tasks\Сортировка Пузырьком\obj\Debug\netcoreapp3.1\Сортировка Пузырьком.dll
+C:\Users\Лёля\source\repos\Coding - Tasks\Сортировка Пузырьком\obj\Debug\netcoreapp3.1\Сортировка Пузырьком.pdb
+C:\Users\Лёля\source\repos\Coding - Tasks\Сортировка Пузырьком\obj\Debug\netcoreapp3.1\Сортировка Пузырьком.genruntimeconfig.cache
