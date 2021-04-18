@@ -1,0 +1,13 @@
+C:\Users\Лёля\source\repos\НОД И НОК\obj\Debug\netcoreapp3.1\НОД И НОК.csprojAssemblyReference.cache
+C:\Users\Лёля\source\repos\НОД И НОК\obj\Debug\netcoreapp3.1\НОД И НОК.AssemblyInfoInputs.cache
+C:\Users\Лёля\source\repos\НОД И НОК\obj\Debug\netcoreapp3.1\НОД И НОК.AssemblyInfo.cs
+C:\Users\Лёля\source\repos\НОД И НОК\obj\Debug\netcoreapp3.1\НОД И НОК.csproj.CoreCompileInputs.cache
+C:\Users\Лёля\source\repos\НОД И НОК\bin\Debug\netcoreapp3.1\НОД И НОК.exe
+C:\Users\Лёля\source\repos\НОД И НОК\bin\Debug\netcoreapp3.1\НОД И НОК.deps.json
+C:\Users\Лёля\source\repos\НОД И НОК\bin\Debug\netcoreapp3.1\НОД И НОК.runtimeconfig.json
+C:\Users\Лёля\source\repos\НОД И НОК\bin\Debug\netcoreapp3.1\НОД И НОК.runtimeconfig.dev.json
+C:\Users\Лёля\source\repos\НОД И НОК\bin\Debug\netcoreapp3.1\НОД И НОК.dll
+C:\Users\Лёля\source\repos\НОД И НОК\bin\Debug\netcoreapp3.1\НОД И НОК.pdb
+C:\Users\Лёля\source\repos\НОД И НОК\obj\Debug\netcoreapp3.1\НОД И НОК.dll
+C:\Users\Лёля\source\repos\НОД И НОК\obj\Debug\netcoreapp3.1\НОД И НОК.pdb
+C:\Users\Лёля\source\repos\НОД И НОК\obj\Debug\netcoreapp3.1\НОД И НОК.genruntimeconfig.cache
