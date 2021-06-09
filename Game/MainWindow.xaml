@@ -7,50 +7,79 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="600" Width="800" MinHeight="600" MinWidth="800" MaxHeight="1200" MaxWidth="1900">
 
+
     <Grid>
-        <Grid.Background>
-            <ImageBrush ImageSource="Kuhnya-v-chastnom-dome-s-oknom.jpg"/>
-        </Grid.Background>
-        <TextBlock TextWrapping="WrapWithOverflow" FontFamily="Gill Sans Ultra Bold Condensed" FontStyle="Italic" TextDecorations="{x:Null}" FontWeight="Bold" Margin="10,48,-10.4,0" VerticalAlignment="Top" Height="58">
-         <Run FontSize="30" Foreground="#FF1A1F1E">Нажмите на миску, чтобы покормить котика</Run>
-        </TextBlock>
-        <Grid HorizontalAlignment="Left" Height="181" VerticalAlignment="Top" Width="222" Margin="287,211,0,0" x:Name="Button_Click" MouseUp="Button_Click_MouseUp">
-            <Grid.Background>
-                <ImageBrush ImageSource="2820609.5ea6ee234541a-removebg-preview.png"/>
-            </Grid.Background>
+        <Grid.Effect>
+            <DropShadowEffect/>
+        </Grid.Effect>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.RowSpan="2" Grid.ColumnSpan="3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.5*"></RowDefinition>
+                <RowDefinition Height="180"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
 
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="180"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+        </Grid>
 
-        </Grid>
-        <Grid x:Name="Button_Click1" HorizontalAlignment="Left" Height="178" VerticalAlignment="Top" Width="275" Margin="509,392,0,0">
-            <Grid.Background>
-                <ImageBrush ImageSource="vhG-sExk4DY-removebg-preview.png"/>
-            </Grid.Background>
-        </Grid>
-        <Grid HorizontalAlignment="Left" Height="91" VerticalAlignment="Top" Width="96" Margin="8,460,0,0" x:Name="Button_Click13" MouseUp="Button_Click13_MouseUp">
-            <Grid.Background>
-                <ImageBrush ImageSource="depositphotos_46165335-stock-illustration-repeat-sign-icon-removebg-preview.png"/>
-            </Grid.Background>
-        </Grid>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Сделать котика голодным" VerticalAlignment="Top" RenderTransformOrigin="2.004,11.325" FontSize="16" FontWeight="Bold" Margin="109,514,0,0" Height="37" Width="235"/>
-        <TextBox HorizontalAlignment="Left" Height="134" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="180" Margin="366,397,0,-25.8" Background="{x:Null}" FontFamily="SimSun-ExtB" FontSize="48" FontWeight="Bold"  x:Name="text" BorderBrush="{x:Null}" IsReadOnly="True">
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Сделать котика голодным" VerticalAlignment="Top" RenderTransformOrigin="2.004,11.325" FontSize="16" FontWeight="Bold" Margin="105,127.2,0,0" Height="37" Width="235" Grid.Row="2" Grid.ColumnSpan="2"/>
+        <TextBox HorizontalAlignment="Left" Height="134" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="180" Margin="75.2,10.2,0,0" Background="{x:Null}" FontFamily="SimSun-ExtB" FontSize="48" FontWeight="Bold"  x:Name="text" BorderBrush="{x:Null}" IsReadOnly="True" Grid.Column="1" Grid.Row="2">
             <TextBox.TextDecorations>
                 <TextDecoration/>
             </TextBox.TextDecorations>
         </TextBox>
-        <Grid HorizontalAlignment="Left" Height="131" VerticalAlignment="Top" Width="173" Margin="540,256,0,0">
+        <Grid HorizontalAlignment="Left" Height="74" VerticalAlignment="Top" Width="75" Margin="25,90.2,0,0" x:Name="Button_Click13" MouseUp="Button_Click13_MouseUp" Grid.Row="2">
             <Grid.Background>
-                <ImageBrush ImageSource="Без_названия-removebg-preview.png"/>
+                <ImageBrush ImageSource="depositphotos_46165335-stock-illustration-repeat-sign-icon-removebg-preview.png"/>
             </Grid.Background>
         </Grid>
-        <Grid HorizontalAlignment="Left" Height="174" VerticalAlignment="Top" Width="164" Margin="58,218,0,0">
+        <Grid HorizontalAlignment="Left" Height="181" VerticalAlignment="Top" Width="222" Margin="10.2,9.6,0,0" x:Name="Button_Click" MouseUp="Button_Click_MouseUp" Grid.Column="1" Grid.Row="1" Grid.RowSpan="2" RenderTransformOrigin="0.414,0.334">
             <Grid.Background>
-                <ImageBrush ImageSource="p7beul2j-900-removebg-preview.png"/>
+                <ImageBrush ImageSource="2820609.5ea6ee234541a-removebg-preview.png"/>
             </Grid.Background>
+            <Grid HorizontalAlignment="Left" Height="174" VerticalAlignment="Top" Width="208" Margin="-233,3,0,0">
+                <Grid.Background>
+                    <ImageBrush ImageSource="Без_названия-removebg-preview.png"/>
+                </Grid.Background>
+            </Grid>
+            <Grid HorizontalAlignment="Left" Height="174" VerticalAlignment="Top" Width="164" Margin="267,3,-209,0">
+                <Grid.Background>
+                    <ImageBrush ImageSource="p7beul2j-900-removebg-preview.png"/>
+                </Grid.Background>
+
+            </Grid>
+            <Grid x:Name="Button_Click1" HorizontalAlignment="Left" Height="178" VerticalAlignment="Bottom" Width="275" Margin="233,0,-286,-179">
+                <Grid.Background>
+                    <ImageBrush ImageSource="vhG-sExk4DY-removebg-preview.png"/>
+                </Grid.Background>
+            </Grid>
+            <TextBlock TextWrapping="WrapWithOverflow" FontFamily="Gill Sans Ultra Bold Condensed" FontStyle="Italic" TextDecorations="{x:Null}" FontWeight="Bold" Margin="-233,-160,-285,0" VerticalAlignment="Top" Height="58" Grid.Row="0">
+         <Run FontSize="30" Foreground="#FF1A1F1E">Нажмите на миску, чтобы покормить котика</Run>
+            </TextBlock>
+
 
         </Grid>
 
 
     </Grid>
 
-    
+
+
+    <Window.Background>
+        <ImageBrush ImageSource="Kuhnya-v-chastnom-dome-s-oknom.jpg"/>
+    </Window.Background>
 </Window>
