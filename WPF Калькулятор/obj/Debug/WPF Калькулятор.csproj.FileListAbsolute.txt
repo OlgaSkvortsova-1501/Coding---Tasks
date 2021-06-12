@@ -1,0 +1,15 @@
+C:\Users\Лёля\source\repos\WPF Калькулятор\bin\Debug\WPF Калькулятор.exe.config
+C:\Users\Лёля\source\repos\WPF Калькулятор\bin\Debug\WPF Калькулятор.exe
+C:\Users\Лёля\source\repos\WPF Калькулятор\bin\Debug\WPF Калькулятор.pdb
+C:\Users\Лёля\source\repos\WPF Калькулятор\obj\Debug\WPF Калькулятор.csprojAssemblyReference.cache
+C:\Users\Лёля\source\repos\WPF Калькулятор\obj\Debug\MainWindow.g.cs
+C:\Users\Лёля\source\repos\WPF Калькулятор\obj\Debug\App.g.cs
+C:\Users\Лёля\source\repos\WPF Калькулятор\obj\Debug\WPF Калькулятор_MarkupCompile.cache
+C:\Users\Лёля\source\repos\WPF Калькулятор\obj\Debug\WPF Калькулятор_MarkupCompile.lref
+C:\Users\Лёля\source\repos\WPF Калькулятор\obj\Debug\MainWindow.baml
+C:\Users\Лёля\source\repos\WPF Калькулятор\obj\Debug\WPF Калькулятор.g.resources
+C:\Users\Лёля\source\repos\WPF Калькулятор\obj\Debug\WPF_Калькулятор.Properties.Resources.resources
+C:\Users\Лёля\source\repos\WPF Калькулятор\obj\Debug\WPF Калькулятор.csproj.GenerateResource.cache
+C:\Users\Лёля\source\repos\WPF Калькулятор\obj\Debug\WPF Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Лёля\source\repos\WPF Калькулятор\obj\Debug\WPF Калькулятор.exe
+C:\Users\Лёля\source\repos\WPF Калькулятор\obj\Debug\WPF Калькулятор.pdb
