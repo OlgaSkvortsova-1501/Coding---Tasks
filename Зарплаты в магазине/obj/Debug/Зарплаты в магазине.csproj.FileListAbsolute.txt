@@ -1,0 +1,15 @@
+C:\Users\Лёля\source\repos\Зарплаты в магазине\bin\Debug\Зарплаты в магазине.exe.config
+C:\Users\Лёля\source\repos\Зарплаты в магазине\bin\Debug\Зарплаты в магазине.exe
+C:\Users\Лёля\source\repos\Зарплаты в магазине\bin\Debug\Зарплаты в магазине.pdb
+C:\Users\Лёля\source\repos\Зарплаты в магазине\obj\Debug\Зарплаты в магазине.csprojAssemblyReference.cache
+C:\Users\Лёля\source\repos\Зарплаты в магазине\obj\Debug\MainWindow.g.cs
+C:\Users\Лёля\source\repos\Зарплаты в магазине\obj\Debug\App.g.cs
+C:\Users\Лёля\source\repos\Зарплаты в магазине\obj\Debug\Зарплаты в магазине_MarkupCompile.cache
+C:\Users\Лёля\source\repos\Зарплаты в магазине\obj\Debug\Зарплаты в магазине_MarkupCompile.lref
+C:\Users\Лёля\source\repos\Зарплаты в магазине\obj\Debug\MainWindow.baml
+C:\Users\Лёля\source\repos\Зарплаты в магазине\obj\Debug\Зарплаты в магазине.g.resources
+C:\Users\Лёля\source\repos\Зарплаты в магазине\obj\Debug\Зарплаты_в_магазине.Properties.Resources.resources
+C:\Users\Лёля\source\repos\Зарплаты в магазине\obj\Debug\Зарплаты в магазине.csproj.GenerateResource.cache
+C:\Users\Лёля\source\repos\Зарплаты в магазине\obj\Debug\Зарплаты в магазине.csproj.CoreCompileInputs.cache
+C:\Users\Лёля\source\repos\Зарплаты в магазине\obj\Debug\Зарплаты в магазине.exe
+C:\Users\Лёля\source\repos\Зарплаты в магазине\obj\Debug\Зарплаты в магазине.pdb
