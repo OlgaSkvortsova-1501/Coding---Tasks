@@ -1,0 +1,60 @@
+﻿<Window x:Class="Редактор.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Редактор"
+        mc:Ignorable="d"
+        Title="Редактор" Height="445.566" Width="811.084">
+    <Grid>
+        <Grid.Effect>
+            <DropShadowEffect/>
+        </Grid.Effect>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="23*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="247.2"></ColumnDefinition>
+            <ColumnDefinition Width="92"></ColumnDefinition>
+            <ColumnDefinition Width="132"></ColumnDefinition>
+            <ColumnDefinition Width="90.4"></ColumnDefinition>
+
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.Resources>
+            <Style TargetType="{x:Type Button}" x:Key="formatTextStyle">
+                <Setter Property="CommandTarget" Value="{Binding ElementName=text}"></Setter>
+            </Style>
+        </Grid.Resources>
+
+
+        <ComboBox Name="Shrift" Text="Times New Roman" Margin="9,10,78.2,47.4" SelectionChanged="Shrift_SelectionChanged" Foreground="#FF0F0909" IsEditable="True" BorderBrush="White" Grid.Column="0">
+
+        </ComboBox>
+
+        <ComboBox Name="Razmer" Text="12" Margin="187,10,10.2,47.4" IsEditable="True" TextBoxBase.TextChanged="Razmer_TextChanged" Grid.Column="0" />
+
+        <RichTextBox x:Name="text" SelectionChanged="text_SelectionChanged" Grid.ColumnSpan="5" Margin="0,4.6,9.6,0" Grid.Row="1" TextChanged="Text_TextChanged"/>
+
+        <Button x:Name="Red" Content="Red" HorizontalAlignment="Left" VerticalAlignment="Top" Width="63"  Height="38" Background="#FFF90000" Click="Red_Click" Grid.Column="3" Margin="9.8,13,0,0"/>
+        <Button x:Name="Green" Content="Green" HorizontalAlignment="Left" VerticalAlignment="Top" Width="63"  Height="39" Background="#FF62FF00" Click="Green_Click" Grid.Column="2" Margin="23.8,12,0,0"/>
+        <Button x:Name="Blue" Content="Blue" HorizontalAlignment="Left" VerticalAlignment="Top" Width="63" Margin="18.8,12,0,0" Height="39" Background="#FF00E8FF" Click="Blue_Click" Grid.Column="1"/>
+        <Button x:Name="Clean" Content="Clean" HorizontalAlignment="Left" VerticalAlignment="Top" Width="143"  Height="39" Click="Button_Click" Grid.Column="4" Margin="39.4,31,0,0"/>
+        <Button x:Name="Black" Content="Black" HorizontalAlignment="Left" VerticalAlignment="Top" Width="119" Height="38" Background="Black" Click="Black_Click" Foreground="White" Grid.Column="2" Margin="2.8,60,0,0"/>
+        <Button x:Name="Bold" Style="{StaticResource formatTextStyle}" Content="B" HorizontalAlignment="Left" Height="27" Margin="15,60,0,0" VerticalAlignment="Top" Width="27" Command="EditingCommands.ToggleBold"/>
+        <Button x:Name="Underline" Style="{StaticResource formatTextStyle}" Content="U" HorizontalAlignment="Left" Margin="55,60,0,0" VerticalAlignment="Top" Width="27" Height="27" Command="EditingCommands.ToggleUnderline"/>
+        <Button x:Name="Italic" Style="{StaticResource formatTextStyle}" Content="i" HorizontalAlignment="Left" Margin="95,60,0,0" VerticalAlignment="Top" Width="27" Height="27"  Command="EditingCommands.ToggleItalic"/>
+
+
+
+    </Grid>
+
+
+
+
+</Window>
+
+                            
