@@ -1,0 +1,7 @@
+C:\Users\Лёля\source\repos\золотое сечение\bin\Debug\золотое сечение.exe.config
+C:\Users\Лёля\source\repos\золотое сечение\bin\Debug\золотое сечение.exe
+C:\Users\Лёля\source\repos\золотое сечение\bin\Debug\золотое сечение.pdb
+C:\Users\Лёля\source\repos\золотое сечение\obj\Debug\золотое сечение.csprojAssemblyReference.cache
+C:\Users\Лёля\source\repos\золотое сечение\obj\Debug\золотое сечение.csproj.CoreCompileInputs.cache
+C:\Users\Лёля\source\repos\золотое сечение\obj\Debug\золотое сечение.exe
+C:\Users\Лёля\source\repos\золотое сечение\obj\Debug\золотое сечение.pdb
