@@ -1,0 +1,7 @@
+C:\Users\Artem\source\Лабы Оля\распределение заданий\bin\Debug\распределение заданий.exe.config
+C:\Users\Artem\source\Лабы Оля\распределение заданий\bin\Debug\распределение заданий.exe
+C:\Users\Artem\source\Лабы Оля\распределение заданий\bin\Debug\распределение заданий.pdb
+C:\Users\Artem\source\Лабы Оля\распределение заданий\obj\Debug\распределение заданий.csproj.AssemblyReference.cache
+C:\Users\Artem\source\Лабы Оля\распределение заданий\obj\Debug\распределение заданий.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\Лабы Оля\распределение заданий\obj\Debug\распределение заданий.exe
+C:\Users\Artem\source\Лабы Оля\распределение заданий\obj\Debug\распределение заданий.pdb
